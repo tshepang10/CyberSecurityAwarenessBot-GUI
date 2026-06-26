@@ -1,0 +1,14 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# User-specific
+*.user
+*.suo
+.vs/
+
+# Local task fallback
+tasks-fallback.json
+
+# IDE
+.idea/
