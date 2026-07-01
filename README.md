@@ -80,7 +80,7 @@ The app auto-creates the `tasks` table on first run. If MySQL is unavailable, ta
   ## YouTube Video Link
   https://youtu.be/D67usWLLDts
 
-
+## Requirements
 - .NET 10 SDK (Windows)
 - Windows (WinForms)
 - MySQL (optional, for Part 3 task persistence)
