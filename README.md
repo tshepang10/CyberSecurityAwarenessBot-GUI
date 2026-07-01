@@ -71,11 +71,9 @@ The app auto-creates the `tasks` table on first run. If MySQL is unavailable, ta
 | `Assets/` | Voice greeting WAV file |
 | `.github/workflows/` | GitHub Actions CI |
 
-## GitHub & CI
-
-- Minimum 6 meaningful commits required for submission
-- CI workflow builds the project on every push (see `.github/workflows/ci.yml`)
-- Include a screenshot of a successful CI run in your README before submitting
+##  CI
+- CI workflow builds the project on every push 
+- <img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/e656bbf3-d855-4da4-a1b4-885da7fcc0c1" />
 
   ## YouTube Video Link
   https://youtu.be/D67usWLLDts
