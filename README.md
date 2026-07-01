@@ -77,7 +77,9 @@ The app auto-creates the `tasks` table on first run. If MySQL is unavailable, ta
 - CI workflow builds the project on every push (see `.github/workflows/ci.yml`)
 - Include a screenshot of a successful CI run in your README before submitting
 
-## Requirements
+  ## YouTube Video Link
+  https://youtu.be/D67usWLLDts
+
 
 - .NET 10 SDK (Windows)
 - Windows (WinForms)
